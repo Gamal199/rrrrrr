@@ -1,0 +1,16 @@
+package com.qacart.todo.data;
+
+public class Route {
+
+    public static final String REGISTER_ROUTE="api/v1/users/register";
+    public static final String LOGIN_ROUTE="api/v1/students/login";
+    public static final String TODOS_ROUTE="api/v1/tasks";
+    public static final String GETTODO_ROUTE="/api/v1/tasks";
+    public static final String DELETE_ROUTE="/api/v1/tasks";
+
+
+
+
+
+
+}
